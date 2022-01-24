@@ -1,0 +1,106 @@
+.navbar ul {
+  margin-left: auto;
+}
+
+.navbar {
+  margin-bottom: 50px;
+  background-color: white;
+}
+
+body h1 {
+  font-family: inter !important;
+  font-style: normal;
+  color: black;
+  margin-bottom: 20px;
+}
+
+body h2 {
+  font-family: inter !important;
+  font-style: normal;
+  color: black;
+  margin-bottom: 50px;
+  margin-top: 25px !important;
+}
+
+body h3 {
+  font-family: inter !important;
+  font-style: normal;
+  color: white;
+}
+
+body p {
+  font-family: epilogue !important;
+  font-style: normal;
+  color: white;
+}
+
+.jumbotron .img-fluid {
+  margin-bottom: 20px;
+}
+
+.jumbotron .btn {
+  margin-bottom: 60px;
+}
+
+.btn {
+  font-family: inter !important;
+}
+  
+.nav-link {
+  font-family: inter !important;
+  font-style: normal;
+}
+
+.container-fluid .img-fluid {
+    align-items: left;
+
+}
+
+.silly {
+  margin-left: 50px;
+}
+
+.cs-card {
+  background-color: black;
+  color: white;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) !important;
+}
+
+.cs-items h3 {
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+.cs-items p {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.cs-items .btn {
+  margin-left: 135px;
+  margin-bottom: 20px;
+}
+
+.btn-dark:hover{
+  color: rgb(81, 151, 255);
+  transform: translateY(-4px);
+}
+
+.btn-dark{
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) !important;
+}
+
+.ux-content li {
+  margin-bottom: 20px;
+  font-family: epilogue !important;
+  font-size: large;
+  font-style: normal;
+  font-weight: 600;
+  color: black;
+}
+
+@media (max-width: 600){
+  .cs-card {
+    margin-bottom: 30px;
+  }
+}
